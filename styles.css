@@ -1,0 +1,27 @@
+.jumbotron-fluid {
+    text-align: center;
+    background-image:url(Music_Banner.jpg);
+    color: white;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.column-title {
+    text-align: center;
+}
+
+
+.carousel {
+    margin-top: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+.w-100 {
+    height: 600px;
+}

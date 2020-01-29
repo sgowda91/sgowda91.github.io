@@ -1,0 +1,52 @@
+h1, h2 {
+    color: blue;
+    font-size: 96px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 5px;
+    border: 1px solid black;
+    padding-left: 15px;
+    text-align: center;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+p {
+    text-align: center;
+    font-family: helvetica;
+}
+img {
+    width: 20%;
+}
+em {
+    text-transform: uppercase;
+    font-style: initial;
+}
+#first{
+    text-align: left;
+}
+/* #second {
+    text-align: right;
+} */
+.right {
+    text-align: right;
+}
+.tacos {
+    color: seagreen;
+}
+body {
+    background-color: gray;
+    background-image:url(Brick_Wall.jpg);
+    background-size: cover;
+}
+.big {
+    font-size: 32px;
+}
+
+.tacos .big {
+    font-size: 48px;
+}
+
+table {
+    text-align: center;
+}
+
